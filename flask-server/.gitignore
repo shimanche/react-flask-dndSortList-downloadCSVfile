@@ -1,0 +1,16 @@
+# Virtual environments
+venv/
+env/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Flask-related cache and log files
+instance/
+flask_session/
+*.log
+
+# Other
+.DS_Store
+*.swp
